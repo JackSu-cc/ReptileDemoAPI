@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptileDemo", "ReptileDemo\ReptileDemo.csproj", "{0829302C-F988-4EBE-8B1A-CED2702C37C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptileDemoAPI", "ReptileDemoAPI\ReptileDemoAPI.csproj", "{33654F28-CEE8-4811-BD5B-D4B4A9230329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0829302C-F988-4EBE-8B1A-CED2702C37C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0829302C-F988-4EBE-8B1A-CED2702C37C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0829302C-F988-4EBE-8B1A-CED2702C37C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0829302C-F988-4EBE-8B1A-CED2702C37C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33654F28-CEE8-4811-BD5B-D4B4A9230329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33654F28-CEE8-4811-BD5B-D4B4A9230329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33654F28-CEE8-4811-BD5B-D4B4A9230329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33654F28-CEE8-4811-BD5B-D4B4A9230329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD5B8EA-E9D5-4C17-92A5-7BBED3C37667}
+	EndGlobalSection
+EndGlobal

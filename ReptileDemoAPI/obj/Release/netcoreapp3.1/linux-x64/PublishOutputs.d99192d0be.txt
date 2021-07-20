@@ -1,0 +1,8 @@
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\ReptileDemoAPI
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\appsettings.Development.json
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\appsettings.json
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\ReptileDemoAPI.dll
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\ReptileDemoAPI.deps.json
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\ReptileDemoAPI.runtimeconfig.json
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\ReptileDemoAPI.pdb
+E:\MyCode\爬虫\ReptileDemoCore\ReptileDemo\ReptileDemoAPI\obj\Release\netcoreapp3.1\linux-x64\PubTmp\Out\HtmlAgilityPack.dll

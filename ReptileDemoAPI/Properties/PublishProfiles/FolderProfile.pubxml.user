@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\ReleaseProject\ReptileDemoAPI</_PublishTargetUrl>
+    <History>True|2021-07-14T09:59:21.2319345Z;True|2021-07-14T17:59:03.0167649+08:00;True|2021-07-14T16:18:19.9585724+08:00;True|2021-07-14T15:49:44.4651385+08:00;True|2021-07-14T15:46:22.3684169+08:00;True|2021-07-14T15:34:00.2862104+08:00;True|2021-07-14T14:48:48.2276670+08:00;True|2021-07-14T14:47:54.0609008+08:00;True|2021-07-14T14:39:53.1766373+08:00;True|2021-07-14T13:42:53.3707870+08:00;True|2021-07-14T12:35:53.3176031+08:00;True|2021-07-14T11:15:30.3906479+08:00;True|2021-07-14T10:58:54.0092944+08:00;True|2021-07-14T10:35:45.8661137+08:00;</History>
+  </PropertyGroup>
+</Project>

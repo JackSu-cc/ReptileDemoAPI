@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNQDGQ23JtP29/jOHcdT3Pl89gtfbifCSOB5jec+GjFOpPX1F0+txgSYyxxFp/Ch1e3vADeyNGWHdXi1fcN1jA==",
+  "success": true,
+  "projectFilePath": "E:\\MyCode\\爬虫\\ReptileDemoCore\\ReptileDemo\\ReptileDemo\\ReptileDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
